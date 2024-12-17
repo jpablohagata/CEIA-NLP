@@ -24,7 +24,7 @@ Este proyecto implementa un modelo de generación de texto utilizando redes neur
 
 Link: [Desafío 3](https://github.com/jpablohagata/CEIA-NLP/blob/master/Desafio_3.ipynb)
 
-Link: [**Desafío 4: Modelos Seq2Seq**](https://github.com/jpablohagata/CEIA-NLP/blob/master/Desafio_4.ipynb)
+[**Desafío 4: Modelos Seq2Seq**](https://github.com/jpablohagata/CEIA-NLP/blob/master/Desafio_4.ipynb)
 
 El desafío se centra en crear un sistema de traducción automática y un chatbot utilizando una arquitectura de codificador-decodificador con redes LSTM. El modelo se entrena para generar respuestas a preguntas en lenguaje natural, optimizando la pérdida categórica y evaluando la calidad de las respuestas generadas.
 
